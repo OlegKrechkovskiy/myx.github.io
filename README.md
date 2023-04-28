@@ -1,3 +1,3 @@
-# [plug.github.io](https://olegkrechkovskiy.github.io/plug.github.io/)
+# [myx.github.io/fly](https://olegkrechkovskiy.github.io/myx.github.io/fly)
 
-[plug.github.io](https://olegkrechkovskiy.github.io/plug.github.io/)
+[myx.github.io/fly](htts://olegkrechkovskiy.github.io/myx.github.io/fly)
