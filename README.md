@@ -1,3 +1,5 @@
-# [myx.github.io/fly](https://olegkrechkovskiy.github.io/myx.github.io/fly)
+# Examples
 
-[myx.github.io/fly](htts://olegkrechkovskiy.github.io/myx.github.io/fly)
+[Memory game](https://olegkrechkovskiy.github.io/myx.github.io/memory_game)
+
+[myx.github.io/fly](https://olegkrechkovskiy.github.io/myx.github.io/fly)
